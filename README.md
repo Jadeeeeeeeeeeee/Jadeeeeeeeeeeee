@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning: C++<br>💬 I know: Javascript, CSS, HTML, SQL<br>🖼️ Frameworks i know: TailWind, Mysql, React.js<br>🤵 I am not looking to collab<br>⚡ Fun Fact: i love fallout
+🔭 I’m currently learning: C++<br>💬 I know: Javascript, CSS, HTML, SQL<br>🖼️ Frameworks i know: TailWind, Mysql, React.js<br>💼 my best project <a href="https://github.com/Jadeeeeeeeeeeee/Basic-ai-tic-tac-toe">Tic Tac Toe with simple ai </a> <br>🤵 I am not looking to collab<br>⚡ Fun Fact: i love fallout<br>
 
 
 # 💻 Tech Stack:
