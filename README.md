@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning: WxWidgets<br>💬 I know: Javascript, C++, CSS, HTML, SQL<br>🖼️ Frameworks i know: TailWind, Mysql, React.js<br>💼 my best project <a href="https://github.com/Jadeeeeeeeeeeee/discordBotManager">a terminal app to manage discord bots</a> <br>🤵 I am not looking to collab<br>⚡ Fun Fact: i love fallout<br>
+🔭 I’m currently learning: WxWidgets<br>💬 I know: Javascript, C++, CSS, HTML, SQL<br>🖼️ Frameworks i know: TailWind, Mysql, React.js, wxWidgets<br>💼 my best project <a href="https://github.com/Jadeeeeeeeeeeee/discordBotManager">a terminal app to manage discord bots</a> <br>🤵 I am not looking to collab<br>⚡ Fun Fact: i love fallout<br>
 
 
 # 💻 Tech Stack:
